@@ -5,9 +5,9 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/iost-official/prototype/common"
+	"github.com/iost-official/Go-IOS-Protocol/common"
 	"github.com/InWeCrypto/sha3"
-	"github.com/iost-official/prototype/common/rlp"
+	"github.com/iost-official/Go-IOS-Protocol/common/rlp"
 )
 
 type hasher struct {

@@ -3,7 +3,7 @@ package block
 import (
 	. "github.com/smartystreets/goconvey/convey"
 	"testing"
-	"github.com/iost-official/prototype/core/tx"
+	"github.com/iost-official/Go-IOS-Protocol/core/tx"
 )
 
 func TestNewBlockChain(t *testing.T) {

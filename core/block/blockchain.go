@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strconv"
 	"sync"
-	"github.com/iost-official/prototype/core/tx"
-	"github.com/iost-official/prototype/db"
-	//"github.com/iost-official/prototype/log"
+	"github.com/iost-official/Go-IOS-Protocol/core/tx"
+	"github.com/iost-official/Go-IOS-Protocol/db"
+	//"github.com/iost-official/Go-IOS-Protocol/log"
 )
 
 var (

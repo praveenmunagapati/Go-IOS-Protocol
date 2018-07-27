@@ -10,9 +10,9 @@ import (
 
 	"strconv"
 
-	"github.com/iost-official/prototype/core/message"
-	. "github.com/iost-official/prototype/network"
-	"github.com/iost-official/prototype/network/discover"
+	"github.com/iost-official/Go-IOS-Protocol/core/message"
+	. "github.com/iost-official/Go-IOS-Protocol/network"
+	"github.com/iost-official/Go-IOS-Protocol/network/discover"
 )
 
 var serverAddr = flag.String("s", "", "server port 30304, or other ports that have already started.")
